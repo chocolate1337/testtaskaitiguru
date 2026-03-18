@@ -1,0 +1,26 @@
+/fastapitestserv
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+
+*.log
+
+*.sqlite3
+*.db
+
+# IDE settings
+.vscode/
+.idea/

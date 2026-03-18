@@ -1,0 +1,9 @@
+fastapi[all]
+SQLAlchemy
+httpx
+pydantic-settings
+pytest
+pytest-asyncio
+pytest-mock
+asyncpg
+aiosqlite
